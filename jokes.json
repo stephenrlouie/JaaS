@@ -16,5 +16,22 @@
   "setup": "Orange",
   "punchline": "Orange you going to let me in",
   "scoure": "http://www.funology.com/knock-knock-jokes/"
+  },
+  {
+  "tag": [
+     "play on words"
+  ],
+  "setup": "What happens when smog disperses in California?",
+  "punchline": "UCLA",
+  "scoure": "http://www.ducksters.com/jokes/weather.php"
+  },
+  {
+  "tag": [
+     "play on words",
+     "wedding"
+  ],
+  "setup": "I went to an emotional wedding this weekend.",
+  "punchline": "Even the cake was in tiers",
+  "scoure": ""
   }
 ]
