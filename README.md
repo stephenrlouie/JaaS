@@ -2,6 +2,8 @@
 
 Our mission is to provide a centralized machine readable repository of SFW jokes / puns / funny statements. 
 
+Design Documents: https://drive.google.com/open?id=0B5kUcqMqT5-NcUhkOWxiUkF1NFk
+
 ##Contributing Guide:
 1. Fork and submit PR's
 2. Jokes must follow formatting guide
