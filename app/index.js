@@ -2,7 +2,7 @@ var express = require('express')
 
 var app = express()
 app.set('views', __dirname)
-app.set('view engine', 'jade')
+app.set('view engine', 'pug')
 
 app.use(require(__dirname + '/site/router'))
 app.use('/api', require(__dirname + '/jokes/router'))
