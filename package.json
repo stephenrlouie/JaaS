@@ -1,0 +1,40 @@
+{
+  "name": "jaas",
+  "version": "0.1.0",
+  "description": "Jokes as a Service",
+  "main": "index.js",
+  "scripts": {
+    "test": "./bin/test.sh",
+    "start": "node ./app/server.js | bistre",
+    "lint": "standard"
+  },
+  
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stephenrlouie/JaaS.git"
+  },
+  "author": "Stephen Louie <stelouie@cisco.com>",
+  "contributors": [
+    "Michael Napolitano <mnapolit@cisco.com>",
+    "Adam Schaub <adamscha@cisco.com>"
+  ],
+  "dependencies": {
+    "bole": "2.0.0",
+    "express": "4.13.4",
+    "jade": "1.11.0",
+    "router": "1.1.4"
+  },
+  "devDependencies": {
+    "bistre": "1.0.1",
+    "standard": "6.0.8",
+    "supertest": "1.2.0",
+    "tap-dot": "1.0.5",
+    "tape": "4.5.1"
+
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stephenrlouie/JaaS/issues"
+  },
+  "homepage": "https://github.com/stephenrlouie/JaaS#readme"
+}
