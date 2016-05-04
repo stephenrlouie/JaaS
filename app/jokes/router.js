@@ -3,7 +3,7 @@ var log = require('bole')('joke/router')
 var router = require('express').Router()
 
 function getJokes (req, res) {
-	res.status(201).send()
+	res.status(200).send()
 }
 
 function createJoke (req, res) {
